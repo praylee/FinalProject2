@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.lee.finalproject.HelpInfo">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:singleLine="false"
+        android:text="Welcome to Movie info application. To start, press Triangle button in main menu.
+        \n\n
+        This movie application can download the latest movies from http://13.59.45.15:8080/finalProject/new_movies.xml. User can add a movie by clicking the “add movie” button. Also, users can update the whole movie list to get the latest info from the cloud by hit on the “DownLoad Movies List” button. All data will be saved to the database automatically. Three text boxes at the top indicate the highest, average, and lowest film statistics and change dynamically. User can modify, delete and update any item by clicking on the any movie to load the movie detail page. In this page, you can put more details in. If you enter the correct url of the poster, the application may download it automatically for you. If it is incorrect, default image will show.
+        \n\n That’s the basic instructions.
+        \n
+        \n You are ready to go. Thanks for using.
+        \n\n
+        \n Movie Info V1.0 by Peng Li, Student No.040854536
+        "/>
+
+</android.support.constraint.ConstraintLayout>

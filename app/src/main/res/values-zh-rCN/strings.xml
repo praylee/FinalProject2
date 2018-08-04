@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">期末项目</string>
+    <string name="film_info">电影信息</string>
+    <string name="add_film">添加电影</string>
+    <string name="download_movies_list">更新电影清单</string>
+    <string name="help">帮助</string>
+
+
+    <!-- Movie Details Fragment -->
+    <string name="movie_title">标题</string>
+    <string name="movie_actors">演员</string>
+    <string name="movie_length">长度(分钟)</string>
+    <string name="movie_description">描述</string>
+    <string name="movie_rating">评分</string>
+    <string name="movie_genre">流派</string>
+    <string name="movie_URL">链接</string>
+    <string name="movie_update">修改</string>
+    <string name="movie_add">添加</string>
+    <string name="movie_remove">删除</string>
+
+    <string-array name="spingarr">
+        <item>喜剧</item>
+        <item>恐怖</item>
+        <item>动作</item>
+        <item>纪录片</item>
+    </string-array>
+
+</resources>

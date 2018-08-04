@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">FinalProject</string>
+    <string name="film_info">Movie Information</string>
+    <string name="add_film">Add Movie</string>
+    <string name="download_movies_list">Download movies list</string>
+    <string name="help">Help</string>
+
+    <!-- Movie Details Fragment -->
+    <string name="movie_title">Title</string>
+    <string name="movie_actors">Actors</string>
+    <string name="movie_length">Length(mins)</string>
+    <string name="movie_description">Description</string>
+    <string name="movie_rating">Rating</string>
+    <string name="movie_genre">Genre</string>
+    <string name="movie_URL">URL</string>
+    <string name="movie_update">Modify</string>
+    <string name="movie_add">Add</string>
+    <string name="movie_remove">Remove</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="spingarr">
+        <item>comedy</item>
+        <item>horror</item>
+        <item>action</item>
+        <item>documentary</item>
+    </string-array>
+    <string name="title_activity_help_info">HelpInfo</string>
+</resources>
